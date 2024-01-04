@@ -1,0 +1,35 @@
+Salut Dylan ! 
+J'espère que ça va bien. 
+
+Alors voici les instruction à suivre avant de lancer "l'overlay".
+
+Etape 1 - Avoir installer Python depuis le Microsoft store 
+Etape 2 - Lancer le fichier "Overlay.bat" il va installer les pré-requis pour lancer l'overlay
+Etape 3 - Lance l'overlay "Run.bat", ça va ouvrir un invite de commande mais tu peux le cacher, il est pas important
+Etape 3.2 - Tu peux supprimer le fichier "Setup.bat"
+Etape 4 - Lance Obs en ajoutant une capture de fênetre, ensuite selectionne l'overlay
+Etape 5 - Ajoute le filtre Incrustation par Chrominance et met Similitude à 250
+	  Finesse à 100, Reduction [...] de couleur-clé à 1, et Gamma à 1,00
+
+
+
+
+
+
+
+Voilà, je suis contente d'avoir pu t'aider.
+En tout cas, tes streams me font du bien, je m'amuse beaucoup dessus
+Merci beaucoup pour ça ! 
+Et en plus t'es le copain de ma meilleure amie
+donc c'est doublement cool, oui ça fait big forceuse je suis désolée
+Ciao ciao et j'espère que ça te sera utile. Si jamais tu veux changer un truc
+ou même ajouter quelque chose, hésite pas à me mp ! 
+Ciao ciao !
+
+- Charlotte
+
+
+Update 21 - 19h24
+Désolée pour tout a l'heure, enfaite le flag virus viens du compilateur python
+il est nul donc j'ai pris une alternative un peu système D le temps que je trouve un truc mieux !
+déso déso
